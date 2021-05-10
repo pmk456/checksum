@@ -2,12 +2,12 @@
 ## Installation
 ```
 sudo apt install python3
-chmod +x checksum.py
+chmod +x main.py
 ```
 ## Using DEB
 ```
 wget https://github.com/pmk456/checksum/releases/download/checksum_amd64/checksum
-dpkg -i checksum_amd64.deb
+sudo dpkg -i checksum_amd64.deb
 ```
 ## Usage
 ```
