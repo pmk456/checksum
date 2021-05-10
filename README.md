@@ -13,8 +13,7 @@ dpkg -i checksum_amd64.deb
 ```
 usage: checksum [-h] [--hash HASH] [-a A] path
 
-* Copyright of Patan Musthakheem, 2021 * Supports Checksum For SHA256, SHA1,
-MD5
+* Copyright of Patan Musthakheem, 2021 * Supports Checksum For SHA256, SHA1, MD5
 
 positional arguments:
   path         Path of The File
