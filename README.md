@@ -6,7 +6,7 @@ chmod +x checksum.py
 ```
 ## Using DEB
 ```
-wget 
+wget https://github.com/pmk456/checksum/releases/download/checksum_amd64/checksum
 dpkg -i checksum_amd64.deb
 ```
 ## Usage
