@@ -1,7 +1,14 @@
-# Checksum
+# Checksum 2.0
+## Whats New
+```
+Added Support For Windows 10
+Re-Written The Whole Source Code Without Depending On Terminal Packages
+Used hashlib Module.
+```
 ## Installation
 ```
 sudo apt install python3
+git clone https://github.com/pmk456/checksum.git
 chmod +x main.py
 ```
 ## Using DEB
